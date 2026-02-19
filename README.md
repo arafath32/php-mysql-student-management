@@ -1,7 +1,3 @@
-# php-mysql-student-management
-Full-stack CRUD application using PHP and MySQL
-# PHP & MySQL Student Management System
-
 ## Overview
 This project is a simple full-stack CRUD web application developed using PHP and MySQL.  
 It allows users to add, view, and delete student records.
